@@ -1,5 +1,6 @@
 # Planning Persuasive Trajectories Based on a Leader-Follower Game Model
-This repo host the parameters and the source code for paper and presentation.
+This repo host the parameters used for the manuscript submitted to ACC 2025.
+Source code will be added after review is complete.
 
 ## Requirements
 MATLAB 2023b and above
